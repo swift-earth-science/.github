@@ -21,3 +21,8 @@ We invite scientists, developers, educators, and anyone passionate about earth s
 
 Together, we can create a more sustainable future through the power of open science and community.
 
+---
+
+**Swift Software Group** - Where Ideas Meet Execution.
+
+&copy; 2024 Swift Software Group
