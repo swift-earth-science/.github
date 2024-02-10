@@ -1,4 +1,4 @@
-# Swift Earth Science (by Swift Software Group)
+# Swift Earth Science
 
 **Empowering Discovery and Innovation for a Sustainable Planet**
 
@@ -23,6 +23,7 @@ Together, we can create a more sustainable future through the power of open scie
 
 ---
 
+&copy; 2024 Swift Software Group
+
 **Swift Software Group** - Where Ideas Meet Execution.
 
-&copy; 2024 Swift Software Group
